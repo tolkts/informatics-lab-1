@@ -23,9 +23,3 @@ bash script.bash Timur
 ```bash
 Hello, Timur!
 ```
-
-* Специальные типы переменных [https://se.ifmo.ru/~ad/Documentation/ABS_Guide_ru.html#OTHERTYPESV](https://se.ifmo.ru/~ad/Documentation/ABS_Guide_ru.html#OTHERTYPESV)
-
-* Ресурс, где можно найти ответы на (почти) любые вопросы - https://stackoverflow.com/ и не поверите где еще - https://www.google.ru/
-
-* Хорошая книга по Shell/bash в Linux - "Learn Linux Shell Scripting – Fundamentals of Bash 4.4"  Sebastiaan Tammer
